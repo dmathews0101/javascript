@@ -1,0 +1,6 @@
+step 1. grabbing whichever element we want to change the content of
+step 2. using different methods to change that content 
+
+2 methods(actually properties): 
+a. innerHTML
+b. textContent

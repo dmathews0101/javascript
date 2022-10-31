@@ -1,0 +1,6 @@
+Adding elements to the DOM,
+
+Step 1: Create that element in javascript
+Step 2: Take that element that we have created 
+	in javascript and push it into the html
+	where we want to do it. 

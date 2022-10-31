@@ -1,0 +1,11 @@
+Changing Element Attributes - like id, class, href
+
+step 1. grabbing whichever element we want, and then
+step 2. using one of two methods : setAttribute() or getAttribute()
+	used to change or read the attribute value
+
+using properties:
+link.className = "ninja";
+link.href; --> full url
+
+link.getAttribute("href"); --> returns exact value
